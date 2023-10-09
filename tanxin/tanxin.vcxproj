@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="409.%28哈希%29最长回文串.cpp" />
     <ClCompile Include="455.分发饼干.cpp" />
+    <ClCompile Include="561.数组拆分.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
